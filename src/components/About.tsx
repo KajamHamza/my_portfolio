@@ -12,7 +12,7 @@ export default function About() {
      Whether it's crafting sleek frontend interfaces or building robust backend systems, 
      I love the thrill of solving problems and creating solutions that make a real impact.`,
 
-    `I’m passionate about building things that matter—whether it’s a web app that 
+    `I’m passionate about building things that matter whether it’s a web app that 
      simplifies workflows, a platform that connects people, or a tool that makes life 
      a little easier. My journey in tech has been a mix of curiosity, late-night coding 
      sessions, and a whole lot of coffee.`,
@@ -24,12 +24,12 @@ export default function About() {
 
     `When I’m not coding, you’ll probably find me exploring new tech trends, 
      tinkering with personal projects, or brainstorming ways to make the digital 
-     world a better place. I’m a problem-solver at heart, and I’m always up for 
-     a challenge—whether it’s debugging a tricky piece of code or designing a 
+     world a better place. I’m a problem solver at heart, and I’m always up for 
+     a challenge whether it’s debugging a tricky piece of code or designing a 
      seamless user experience.`,
 
     `I’m on a mission to create software that’s not just functional, but also 
-     delightful to use. If you’re looking for someone who’s passionate, detail-oriented, 
+     delightful to use. If you’re looking for someone who’s passionate, detail oriented, 
      and always ready to learn, let’s connect and build something amazing together!`,
   ];
 
