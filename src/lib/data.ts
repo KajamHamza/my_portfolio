@@ -12,7 +12,7 @@ export const projects = [
     title: "HeraTravel",
     description:
       "A web application developed for a travel agency, allowing users to browse and book curated travel plans. The app features an intuitive interface for exploring travel options, real-time availability checks, and secure booking capabilities, streamlining agency-client interactions.",
-    image: "/Heratravel (2).png",
+    image: "/Heratravel.png",
     repo: "",
   },
   {
