@@ -11,13 +11,13 @@ const experiences = [
     company: "Maroc Telecom (Intern)",
     role: "Network Administrator",
     period: "Jun 2023 - Jul 2023",
-    logo: "/maroc-telecom.png", // Replace with actual logo path
+    logo: "/images/maroc-telecom.png", // Replace with actual logo path
   },
   {
     company: "NATIONAL CENTER FOR NUCLEAR ENERGY, SCIENCE AND TECHNOLOGY (Intern)",
     role: "Java Developer",
     period: "Jun 2022 - Jul 2022",
-    logo: "/cnesten.png", // Replace with actual logo path
+    logo: "/images/cnesten.png", // Replace with actual logo path
   },
 ];
 

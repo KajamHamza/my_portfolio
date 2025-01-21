@@ -28,7 +28,7 @@ export default function Profile() {
       <div className="relative group">
         <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-black/50 backdrop-blur-lg shadow-glow">
           <Image
-            src="/profile.png"
+            src="/images/profile.png"
             alt="Profile"
             width={128}
             height={128}
